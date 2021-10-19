@@ -12,7 +12,7 @@
   <img align="center" alt="Marisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marisa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://marisavieira.github.io/imagens/marisa.png">
+  <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_yoyCDtC1.png">
 </div>
   
   ##
