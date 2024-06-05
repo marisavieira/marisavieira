@@ -12,7 +12,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at *Proseia S/A**.
+- 👨‍💻 I'm currently working full-time at **Proseia S/A**.
 - 🌱 Learning more about and studying: **UX Research and React**.
 - 💙 Interests: ux, dogs, cats.
  
