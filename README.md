@@ -6,17 +6,17 @@
   <img align="center" alt="Marisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c297ff1215de1d2d4b8c48cfd4a42349.gif">
 </div>
   
-  ##
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Abstract
+
+- 👨‍💻 I'm currently working full-time at *Proseia S/A**.
+- 🌱 Learning more about and studying: **UX Research and React**.
+- 💙 Interests: ux, dogs, cats.
  
-<div> 
-  <a href="https://instagram.com/marisavieiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marisavrst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marisa-vieira-santos-6664a2173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ### Olá eu sou a Marisa, e aqui está algumas informações do meu perfil!
+<div>   
 <div align="center">
   <a href="https://github.com/marisavieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marisavieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
